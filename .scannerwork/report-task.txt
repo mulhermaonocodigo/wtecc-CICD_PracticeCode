@@ -1,0 +1,6 @@
+projectKey=temp
+serverUrl=https://mmacedo-9000.theiadocker-2-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai
+serverVersion=10.0.0.68432
+dashboardUrl=https://mmacedo-9000.theiadocker-2-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/dashboard?id=temp
+ceTaskId=AYf8lhOljF23sRM3jdbU
+ceTaskUrl=https://mmacedo-9000.theiadocker-2-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/api/ce/task?id=AYf8lhOljF23sRM3jdbU
